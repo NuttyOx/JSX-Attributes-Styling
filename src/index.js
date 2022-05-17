@@ -7,6 +7,8 @@ ReactDOM.render(
   <div>
     <h1 className="heading">My Favourite Foods</h1>
     <img src={img} alt="test" />
+    <img src={img} alt="test" />
+    <img src={img} alt="test" />
   </div>,
   document.getElementById("root")
 );
